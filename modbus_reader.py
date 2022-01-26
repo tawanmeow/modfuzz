@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+# Tawannnnnnnn :)
+# ref tawanmeow/ida-modbus-reader
 
 from pyModbusTCP.client import ModbusClient
 import time
