@@ -5,4 +5,4 @@ APPFILE = os.path.join(CURRENT_DIRECTORY, "galil.py")
 ATTEMPT = 10
 for i in range(0, ATTEMPT):
     os.system('python ' + APPFILE)
-    print(str(ATTEMPT + 1))
+    print(str(i + 1))
